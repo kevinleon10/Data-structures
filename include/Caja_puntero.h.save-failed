@@ -1,0 +1,16 @@
+#ifndef CAJA_PUNTERO_H
+#define CAJA_PUNTERO_H
+
+
+class Caja_puntero
+{
+    public:
+        Caja_puntero();
+        virtual ~Caja_puntero();
+
+    protected:
+
+    private:
+};
+
+#endif // CAJA_PUNTERO_H

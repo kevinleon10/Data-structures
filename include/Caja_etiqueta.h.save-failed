@@ -1,0 +1,16 @@
+#ifndef CAJA_ETIQUETA_H
+#define CAJA_ETIQUETA_H
+
+
+class Caja_etiqueta
+{
+    public:
+        Caja_etiqueta();
+        virtual ~Caja_etiqueta();
+
+    protected:
+
+    private:
+};
+
+#endif // CAJA_ETIQUETA_H

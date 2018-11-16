@@ -1,0 +1,117 @@
+# depslib dependency file v1.0
+1477888227 source:c:\users\usuario\desktop\estructuras_de_datos\main.cpp
+	<iostream>
+	<new>
+	<stdlib.h>
+	"Cola.h"
+	<windows.h>
+	<vector>
+	"ArbolListaDeHijos.h"
+
+1477775359 c:\users\usuario\desktop\estructuras_de_datos\include\cola.h
+	"iostream"
+
+1476689666 source:c:\users\usuario\desktop\estructuras_de_datos\src\arbol.cpp
+	"Arbol.h"
+	<Nodo_etiqueta.h>
+	<Nodo_puntero.h>
+	<iostream>
+	<new>
+
+1476687600 c:\users\usuario\desktop\estructuras_de_datos\include\arbol.h
+	<Nodo_etiqueta.h>
+	<Nodo_puntero.h>
+
+1476662604 c:\users\usuario\desktop\estructuras_de_datos\include\nodo_etiqueta.h
+	<Nodo_puntero.h>
+
+1476662638 c:\users\usuario\desktop\estructuras_de_datos\include\nodo_puntero.h
+	<Nodo_etiqueta.h>
+
+1476725106 source:c:\users\usuario\desktop\estructuras_de_datos\src\arbolarreglopadre.cpp
+	"ArbolArregloPadre.h"
+	<stdlib.h>
+	<iostream>
+
+1476725106 c:\users\usuario\desktop\estructuras_de_datos\include\arbolarreglopadre.h
+
+1477790718 source:c:\users\usuario\desktop\estructuras_de_datos\src\arbolhmihdapuntahi.cpp
+	"ArbolHmiHdApuntaHi.h"
+	"CajaArbolHmiHdApuntaHi.h"
+	<iostream>
+
+1477790718 c:\users\usuario\desktop\estructuras_de_datos\include\arbolhmihdapuntahi.h
+	"CajaArbolHmiHdApuntaHi.h"
+
+1476721941 c:\users\usuario\desktop\estructuras_de_datos\include\cajaarbolhmihdapuntahi.h
+
+1476760583 source:c:\users\usuario\desktop\estructuras_de_datos\src\arbolhmihdapuntapadre.cpp
+	"ArbolHmiHdApuntaPadre.h"
+	"CajaArbolHmiHdAPadre.h"
+	<iostream>
+
+1476760615 c:\users\usuario\desktop\estructuras_de_datos\include\arbolhmihdapuntapadre.h
+	"CajaArbolHmiHdAPadre.h"
+
+1476721941 c:\users\usuario\desktop\estructuras_de_datos\include\cajaarbolhmihdapadre.h
+
+1477786477 source:c:\users\usuario\desktop\estructuras_de_datos\src\arbolporcursores.cpp
+	"ArbolporCursores.h"
+	<sstream>
+
+1477786477 c:\users\usuario\desktop\estructuras_de_datos\include\arbolporcursores.h
+	<iostream>
+
+1476721941 source:c:\users\usuario\desktop\estructuras_de_datos\src\cajaarbolhmihdapadre.cpp
+	"CajaArbolHmiHdAPadre.h"
+
+1476721941 source:c:\users\usuario\desktop\estructuras_de_datos\src\cajaarbolhmihdapuntahi.cpp
+	"CajaArbolHmiHdApuntaHi.h"
+
+1477775207 source:c:\users\usuario\desktop\estructuras_de_datos\src\cola.cpp
+
+1476693083 source:c:\users\usuario\desktop\estructuras_de_datos\src\elemento.cpp
+	"Elemento.h"
+
+1476693083 c:\users\usuario\desktop\estructuras_de_datos\include\elemento.h
+	<iostream>
+
+1476662604 source:c:\users\usuario\desktop\estructuras_de_datos\src\nodo_etiqueta.cpp
+	"Nodo_etiqueta.h"
+
+1476662638 source:c:\users\usuario\desktop\estructuras_de_datos\src\nodo_puntero.cpp
+	"Nodo_puntero.h"
+
+1476729488 source:c:\users\usuario\desktop\estructuras_de_datos\src\pila.cpp
+	"Pila.h"
+	<sstream>
+
+1476729367 c:\users\usuario\desktop\estructuras_de_datos\include\pila.h
+	"Elemento.h"
+
+1477787242 source:c:\users\usuario\desktop\estructuras_de_datos\src\arbollistadehijos.cpp
+	"ArbolListaDeHijos.h"
+	<Caja_etiqueta.h>
+	<Caja_puntero.h>
+	<iostream>
+	<new>
+	<Cola.h>
+
+1477787076 c:\users\usuario\desktop\estructuras_de_datos\include\arbollistadehijos.h
+	<Caja_etiqueta.h>
+	<Nodo_puntero.h>
+	"iostream"
+
+1477776529 source:c:\users\usuario\desktop\estructuras_de_datos\src\caja_etiqueta.cpp
+	"Caja_etiqueta.h"
+
+1477786750 c:\users\usuario\desktop\estructuras_de_datos\include\caja_etiqueta.h
+	<Caja_puntero.h>
+
+1476693805 c:\users\usuario\desktop\estructuras_de_datos\include\caja_puntero.h
+	<Caja_etiqueta.h>
+
+1476726040 source:c:\users\usuario\desktop\estructuras_de_datos\src\caja_puntero.cpp
+	"Caja_puntero.h"
+	<Caja_etiqueta.h>
+

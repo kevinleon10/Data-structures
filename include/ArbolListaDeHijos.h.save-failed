@@ -1,0 +1,16 @@
+#ifndef ARBOLLISTADEHIJOS_H
+#define ARBOLLISTADEHIJOS_H
+
+
+class ArbolListaDeHijos
+{
+    public:
+        ArbolListaDeHijos();
+        virtual ~ArbolListaDeHijos();
+
+    protected:
+
+    private:
+};
+
+#endif // ARBOLLISTADEHIJOS_H
